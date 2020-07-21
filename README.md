@@ -4,6 +4,9 @@ This is our project in the course Digital Humanities at Ben Gurion University un
 
 All the data here is for STUDY ONLY, NON-COMMERCIAL USE.
 
+Our reasearch question is how the Hebrew language changed during the last 50 decades (1970 until today- 2020).
+We examined lyrics of 90000 songs, cleaned the words using Meni Adler tagger and then counted the number of appearances of each word in every decade.
+
 Project Website Link: https://moshehat.wixsite.com/hebrewsongs
 
 Add_Year_To_Json.py: fetching the years the songs released at from with Spotipy library, mapping each song to a year.
