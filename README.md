@@ -22,4 +22,6 @@ songs_to_years_json.json: dictionary with songs mapped to their years
 
 words_appearence.json: dictionary with dictionary of decades, each contains all the word appearance times.
 
+words_appearence_songs_count.json: The number of songs each word appears in.
+
 
