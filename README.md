@@ -18,9 +18,9 @@ Parsing_Kaggle_DB.py: parsing dataset from Kaggle.com
 
 Parsing_Lyrics_DB.py: parsing dataset from lyrics.co.il
 
-Songs_Fetching: discovering which songs and hw many the words are taken from, on dataset from lyrics.co.il
+Songs_Fetching: discovering which songs and how many the words are taken from, on dataset from lyrics.co.il
 
-Songs_Fetching_Kaggle_DB: discovering which songs and hw many the words are taken from, on dataset from Kaggle.com
+Songs_Fetching_Kaggle_DB: discovering which songs and how many the words are taken from, on dataset from Kaggle.com
 
 songs_to_years_json.json: dictionary with songs mapped to their years
 
